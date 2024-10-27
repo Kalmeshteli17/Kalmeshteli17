@@ -20,6 +20,7 @@
 <a href="https://instagram.com/kalmeshteli17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalmeshteli17 Instagram" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kalmesh-17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kalmesh on Codeforces" height="30" width="40" /></a>
 <a href="https://leetcode.com/kalmesh-17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kalmesh on LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kalmeshteli17/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="Kalmesh on Geeksforgeeks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
